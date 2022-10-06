@@ -38,9 +38,7 @@ Note: After activating the Segmentation service, all APIs under the service can 
 
 ## URL Generation
 
-Assume that you need to segment the image below.
-
-![](SegmentCommonImage.jpg)
+Here are the steps on how to generate your URL:
 
 1) Login to the OSS Management Console
 
