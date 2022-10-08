@@ -28,13 +28,13 @@ Below are the steps on how to activate the Segmentation service.
 
 3) Click **Order Now** on the **Segmentation** page.
 
-Note: For free capabilities during Open Beta, an Order for Free button is shown on the page; for commercially paid capabilities, an Order Now button is shown on the page. You will be charged only after calling.
+Note: For free capabilities during Open Beta, the page shows an Order for Free button; for commercially paid capabilities, the page shows an Order Now button. Charging starts only after calling.
 
 4) Click **Order Now** after confirming the region and checking the service agreement.
 
-After this step, you will see a prompt-Successful Activation on the page.
+After this step, you can see a prompt-Successful Activation on the page.
 
-Note: After activating the Segmentation service, all APIs under the service can be called directly, and there is no need to activate them separately.
+Note: After activating the Segmentation service, all APIs under the service can be called directly. There is no need to activate them separately.
 
 ## URL Generation
 
